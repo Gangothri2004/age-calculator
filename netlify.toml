@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/age_calculator.html"
+status =200
